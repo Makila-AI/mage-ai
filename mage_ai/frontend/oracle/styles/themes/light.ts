@@ -124,7 +124,7 @@ export default {
   },
   content: {
     active: BLACK,
-    default: BLACK,
+    default: '#d3dae6',
     disabled: GRAY_LINES,
     inverted: WHITE,
     muted: GRAY,
@@ -141,7 +141,7 @@ export default {
     neutral: '#787878',
   },
   interactive: {
-    activeBorder: BLACK,
+    activeBorder: '#d3dae6',
     checked: PURPLE_LIGHT,
     dangerBorder: RED,
     defaultBackground: WHITE,
@@ -160,7 +160,7 @@ export default {
     colorInverted: '#EB0032',
   },
   monotone: {
-    black: BLACK,
+    black: '#d3dae6',
     blackTransparent: 'rgba(0, 0, 0, 0.6)',
     gray: GRAY,
     grey100: '#F2F2F2',
